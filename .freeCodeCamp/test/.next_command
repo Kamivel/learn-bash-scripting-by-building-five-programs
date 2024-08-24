@@ -95,3 +95,4 @@ echo hello bash
 touch questionnarite.sh
 rm questionnarite.sh
 touch questionnaire.sh
+sh questionnaire.sh
