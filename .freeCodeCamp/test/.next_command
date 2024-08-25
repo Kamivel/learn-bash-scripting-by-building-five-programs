@@ -198,3 +198,6 @@ help
 ./countdown.sh 10
 help
 ls --color=auto /
+__vsc_prompt_cmd_original
+ls --color=auto
+ls --color=auto /bin
