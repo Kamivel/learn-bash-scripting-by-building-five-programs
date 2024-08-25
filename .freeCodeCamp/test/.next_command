@@ -353,3 +353,4 @@ __vsc_prompt_cmd_original
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 __vsc_prompt_cmd_original
+./fortune.sh
