@@ -333,3 +333,6 @@ help until
 ./fortune.sh
 ./fortune.sh
 help [[
+[[ -n .. ]]
+[[ -n hello==hello ]]
+[[ hello == hello ]]
