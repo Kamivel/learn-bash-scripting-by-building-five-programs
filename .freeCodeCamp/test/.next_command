@@ -231,3 +231,6 @@ __vsc_prompt_cmd_original
 ((I++))
 echo $I
 help let
+(( I1+=10 ))
+(( I1 += 10 ))
+(( I += 10 ))
