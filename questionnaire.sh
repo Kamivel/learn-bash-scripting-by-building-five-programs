@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo -e "\n~~ Questionnaire ~~\n"
 
 QUESTION1="What's your name?"
