@@ -188,3 +188,5 @@ help test
 [[ -a bad_file.txt ]]
 [[ -x countdown.sh ]]
 help [[ expression ]]
+[[ -x countdown.sh && 5 -le 4 ]]
+[[ -x countdown.sh && 5 -le 4 ]]
