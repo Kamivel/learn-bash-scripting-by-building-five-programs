@@ -239,3 +239,5 @@ $((I+4))
 echo $((I+4))
 echo $I
 J=$((I-6))
+ECHO $J
+echo $J
