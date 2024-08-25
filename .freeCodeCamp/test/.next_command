@@ -195,3 +195,4 @@ help [[ expression ]]
 ./countdown.sh 2
 ./countdown.sh -2
 help
+./countdown.sh 10
