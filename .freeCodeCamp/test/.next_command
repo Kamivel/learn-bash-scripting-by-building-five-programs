@@ -244,3 +244,4 @@ echo $J
 __vsc_prompt_cmd_original
 echo $((J*5+25))
 echo $J
+declare -p
