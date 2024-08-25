@@ -336,3 +336,4 @@ help [[
 [[ -n .. ]]
 [[ -n hello==hello ]]
 [[ hello == hello ]]
+[[ hello == world ]]
